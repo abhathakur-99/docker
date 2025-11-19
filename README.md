@@ -25,5 +25,3 @@ sudo usermod -aG docker $USER
 docker run hello-world
 ```
 <br>
-<img width="1920" height="1080" alt="docker2" src="https://github.com/user-attachments/assets/b77809ee-a9a3-411b-8d15-61bf9b93bd58" />
-<br>
